@@ -77,8 +77,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## DEPLOYED HERE
 https://coronovirus-monitoring.herokuapp.com
 - APIs that you can reach:
-* /statistics/cases
-* /statistics/getWorldTotalStatus
-* /statistics/effectedCountries
-* /statistics/getHistoryByParticularCountry/:country
-* /statistics/getWorldTotalStatus
+   /statistics/cases
+   /statistics/getWorldTotalStatus
+   /statistics/effectedCountries
+   /statistics/getHistoryByParticularCountry/:country
+   /statistics/getWorldTotalStatus
